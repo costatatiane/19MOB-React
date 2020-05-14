@@ -17,3 +17,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mb-small {
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 5px 0px
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 30px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background-color: #3483fa;
+  color: white;
+  border: 0px;
+}
+
+.btn-outline {
+  background-color: white;
+  color: #3483fa;
+}

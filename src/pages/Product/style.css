@@ -1,0 +1,33 @@
+.product-container {
+    padding: 40px 40px;
+}
+
+.product-image {
+    width: 300px;
+}
+
+.image-container {
+    text-align: right;
+    width: 50%;
+    float: left;
+}
+
+.info-container {
+    text-align: left;
+    width: 50%;
+    float: right;
+}
+
+.price-text {
+    font-size: 32px;
+}
+
+.old-price-text {
+    font-size: 14px;
+    color: gray;
+    text-decoration: line-through;
+}
+
+.product-stars {
+    width: 100px;
+}
