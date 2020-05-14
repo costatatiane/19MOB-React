@@ -1,0 +1,28 @@
+.header {
+    background-color: #fff159;
+}
+
+.container {
+    text-align: left;
+    vertical-align: top;
+    width: 100%;
+}
+
+.logo {
+    width: 134px;
+    height: 34px;
+    padding: 16px 56px;
+}
+
+.search {
+    width: 50%;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-link {
+    background-color: transparent;
+    font-size: 16px;
+    border: none;
+    width: 30%;
+}
